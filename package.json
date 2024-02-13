@@ -4,6 +4,6 @@
     "description": "A simple serverless app using Node.js",
     "main": "app.js",
     "dependencies":{
-        "http": "^0.0.1"
+        "http": "^0.0.1-security"
     }
 }
