@@ -8,7 +8,6 @@ const server = http.createServer((req, res) =>
     res.setHeader('Content-Type','text/plain');
     res.write('Hello, world Andrei!\n');
     res.end('Good bye');
-    //res.end('Hello, world Ivan!\n');
     
 });
 
