@@ -1,0 +1,9 @@
+{
+    "name": "serverless-app",
+    "version": "1.0.0",
+    "description": "A simple serverless app using Node.js",
+    "main": "app.js",
+    "dependencies":{
+        "http": "^0.0.1"
+    }
+}
